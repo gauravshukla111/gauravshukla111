@@ -1,5 +1,10 @@
 <!-- Add a GIF header for dynamic appeal -->
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
+
+<!-- Typing SVG animation for intro -->
+<h1 align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%7C+JavaScript;Creating+Responsive+Designs;Open+to+new+opportunities!" alt="Typing SVG" /></a>
+</h1>
 
 <h1 align="center">Hi 👋, I'm Gaurav Shukla</h1>
 
@@ -53,3 +58,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111&" alt="GitHub Streak" /></p>
+
+<!-- Trophies section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=7" alt="Gaurav's Trophies" />
+</p>
+
+<!-- GitHub Contribution Snake animation -->
+<p align="center">
+  <img src="https://github.com/gauravshukla111/gauravshukla111/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
