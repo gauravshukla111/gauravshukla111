@@ -61,11 +61,10 @@
 
 <!-- Trophies section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=7" alt="Gaurav's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=8" alt="Gaurav's Trophies" />
 </p>
 
 <!-- GitHub Contribution Snake animation -->
 <p align="center">
   <img src="https://github.com/gauravshukla111/gauravshukla111/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
