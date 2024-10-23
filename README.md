@@ -68,5 +68,4 @@
 
 <p align="center">
   <h2>🐍 My Contributions 🐍</h2> 
-  <img src="https://github.com/gauravshukla111/gauravshukla111/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
