@@ -62,6 +62,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
+<p>&nbsp;</p>
 <div align="center" style="margin-top:10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact" />
 </div>
