@@ -58,12 +58,15 @@
 ### Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111&" alt="GitHub Streak" /></p>
 
 <!-- Trophies section -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=8" alt="Gaurav's Trophies" />
+</p> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
