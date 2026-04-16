@@ -56,15 +56,14 @@
 </p>
 
 
-### Stats
+  ### Stats
 
-<p style="display: flex; gap: 10px;" align="center" >
+<p style="display: flex; gap: 20px;" align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111" />
   <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true" />
 </p>
 
 <br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact" />
 </p>
