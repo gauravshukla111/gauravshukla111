@@ -9,7 +9,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Shukla</h1>
 
 <!-- Make the coding GIF centered and impactful -->
-<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/84556549/218094570-8712f534-ce25-4231-9bab-9d688ab3e60f.gif" style="display: block; margin: 20px auto;" width="600">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/84556549/218094570-8712f534-ce25-4231-9bab-9d688ab3e60f.gif" width="600"/>
+</div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -24,7 +26,7 @@
 - 🌱 I’m currently learning **Advanced NextJs, Backend (Node, Express, MongoDB)**  
 - 💬 Ask me about **ReactJs, JavaScript, HTML5/CSS3, WordPress, NodeJs, ExpressJS, Restful Apis, and NextJs**  
 - 📫 How to reach me **shukla5bhaiya@gmail.com**
-- 📞 Contact Number **6386568193**
+- 📞 Contact Number: **6386568193**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bSeSMMZonaM81TlwarF4zSbGuq0IrXSE/view?usp=sharing)
 
 ### Connect with me
