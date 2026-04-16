@@ -56,9 +56,9 @@
 </p>
 
 
-### 📊 Stats
+### Stats
 
-<p align="center">
+<p style="display: flex; gap: 10px;" align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111" />
   <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true" />
 </p>
