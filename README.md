@@ -22,9 +22,10 @@
 </p>
 
 - 🌱 I’m currently learning **Advanced NextJs, Backend (Node, Express, MongoDB)**  
-- 💬 Ask me about **ReactJs, JavaScript, HTML5/CSS3, WordPress, and NextJs**  
-- 📫 How to reach me **shukla5bhaiya@gmail.com**  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EhPDeUyu9Gcf8qLnbQ4eiG_jD73ULiMV/view?usp=sharing)
+- 💬 Ask me about **ReactJs, JavaScript, HTML5/CSS3, WordPress, NodeJs, ExpressJS, Restful Apis, and NextJs**  
+- 📫 How to reach me **shukla5bhaiya@gmail.com**
+- 📞 Contact Number **6386568193**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bSeSMMZonaM81TlwarF4zSbGuq0IrXSE/view?usp=sharing)
 
 ### Connect with me
 <p align="left">
@@ -64,8 +65,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=8" alt="Gaurav's Trophies" />
 </p>
 
-<!-- GitHub Contribution Snake animation -->
-
-<p align="center">
-  <h2>🐍 My Contributions 🐍</h2> 
-</p>
