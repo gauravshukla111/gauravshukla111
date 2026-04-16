@@ -30,7 +30,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bSeSMMZonaM81TlwarF4zSbGuq0IrXSE/view?usp=sharing)
 
 ### Connect with me
-<p align="left">
+<p align="left" style="display: flex;">
   <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
@@ -62,14 +62,18 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
+<div align="center" style="margin-top:5px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p> -->
 
 <!-- Trophies section -->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=8" alt="Gaurav's Trophies" />
 </p> -->
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=flat&no-frame=true&margin-w=10" />
-</p>
+</p> -->
 
