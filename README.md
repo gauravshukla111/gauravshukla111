@@ -39,12 +39,14 @@
   </a>
 </p> -->
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Shukla-black?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/gauravshukla111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gauravshukla111-black?style=for-the-badge&logo=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
