@@ -30,27 +30,20 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bSeSMMZonaM81TlwarF4zSbGuq0IrXSE/view?usp=sharing)
 
 ### Connect with me
-<!-- <p align="left" style="display: flex;">
-  <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/gauravshukla111" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="30" width="40"/>
-  </a>
-</p> -->
 
-
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gauravshukla111" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github/>
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/>
   </a>
 </p>
-      </br>
 
+<br><br>
+
+---
       
 ### Languages and Tools
 
