@@ -56,16 +56,15 @@
 </p>
 
 
-  ### Stats
+### 📊 Stats
 
-<p style="display: flex; gap: 20px;" align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&theme=dark" width="48%" />
 </p>
 
-<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact&theme=dark" width="50%" />
 </p>
 
 
