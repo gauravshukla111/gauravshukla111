@@ -41,7 +41,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
