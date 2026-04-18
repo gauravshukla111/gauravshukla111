@@ -6,8 +6,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%7C+JavaScript;Creating+Responsive+Designs;Open+to+new+opportunities!" alt="Typing SVG" /></a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Gaurav Shukla</h1>
-
+<h1 align="center">Hi 👋, I'm Gaurav Shukla</h1> 
 <!-- Make the coding GIF centered and impactful -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/84556549/218094570-8712f534-ce25-4231-9bab-9d688ab3e60f.gif" width="600"/>
