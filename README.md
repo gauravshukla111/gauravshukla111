@@ -39,8 +39,8 @@
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/>
   </a>
 </p>
-
-<br>
+ 
+<br> <br>
 
 ### Languages and Tools
 
