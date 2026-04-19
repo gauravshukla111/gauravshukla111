@@ -40,7 +40,7 @@
   </a>
 </p>
  
-<br>
+ <br> <br>
 
 ### Languages and Tools
 
@@ -87,8 +87,3 @@
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=8" alt="Gaurav's Trophies" />
 </p> -->
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=flat&no-frame=true&margin-w=10" />
-</p> -->
-
