@@ -82,8 +82,3 @@
 </p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p> -->
-
-<!-- Trophies section -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=onestar&no-frame=true&column=8" alt="Gaurav's Trophies" />
-</p> -->
