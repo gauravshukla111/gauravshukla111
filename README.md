@@ -72,8 +72,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact&theme=dark" width="50%" />
 </p>
-
-
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111&" alt="GitHub Streak" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&locale=en" alt="GitHub Stats" /></p>
