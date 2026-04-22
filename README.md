@@ -36,6 +36,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/gauravshukla111" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/>
   </a>
