@@ -42,7 +42,7 @@
 </p>
  <br>
 
- 
+
 ### Languages and Tools
 
 <p align="left">
@@ -60,6 +60,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="45"/>&nbsp;&nbsp;
 </p>
+
 
 ###  Stats
 
