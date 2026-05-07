@@ -63,22 +63,27 @@
 </p>
 
 
-###  Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&theme=dark" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
+
+<img src="https://streak-stats.demolab.com?user=gauravshukla111&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact&theme=dark" width="50%" />
-</p> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshukla111&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170em"/>
+
+</p>
 
 ###  Trophies 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;JavaScript+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravshukla111&theme=tokyonight&no-frame=true&row=1&column=6" />
