@@ -28,7 +28,7 @@
 - 📞 Contact Number: **6386568193**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bSeSMMZonaM81TlwarF4zSbGuq0IrXSE/view?usp=sharing)
 
-## Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="_blank">
@@ -44,7 +44,7 @@
 
  
 
-## Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> &nbsp;&nbsp;&nbsp;
