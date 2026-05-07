@@ -63,24 +63,24 @@
 </p>
 
 
-## Stats
+## 📊 Stats
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=gauravshukla111&theme=tokyonight&hide_border=true" 
-    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravshukla111&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
   />
-
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="49%" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=gauravshukla111&theme=tokyonight&hide_border=true" 
+    width="48%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshukla111&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="40%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravshukla111&layout=compact&theme=tokyonight&hide_border=true" 
+    width="42%" 
   />
 </p>
 
