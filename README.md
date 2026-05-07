@@ -28,7 +28,7 @@
 - 📞 Contact Number: **6386568193**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bSeSMMZonaM81TlwarF4zSbGuq0IrXSE/view?usp=sharing)
 
-### Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gaurav-shukla-1656a728b/" target="_blank">
@@ -44,7 +44,7 @@
 
  
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> &nbsp;&nbsp;&nbsp;
@@ -63,26 +63,25 @@
 </p>
 
 
-## 📊 Stats
+##  Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravshukla111&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=gauravshukla111&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravshukla111&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gauravshukla111&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravshukla111&layout=compact&theme=tokyonight&hide_border=true" 
-    width="42%" 
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravshukla111&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
+ 
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshukla111&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla111&show_icons=true&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravshukla111&layout=compact&theme=dark" width="50%" />
+</p> -->
 
 
 
